@@ -1,0 +1,12 @@
+{
+    "name": "caciobanu/improved-magento-layered-navigation",
+    "type": "magento-module",
+    "description": "Improved Magento layered navigation extension",
+    "authors": [
+        {
+            "name": "Catalin Ciobanu",
+            "email": "no@mail.org"
+        }
+    ],
+    "require": {}
+}
